@@ -2,6 +2,8 @@
 
   # Hi there 👋, I'm Nandini Singh
 
+![](https://komarev.com/ghpvc/?username=nandinisingh181818-source)
+
 ## 🚀 About Me
 - 💻 Passionate about programming and problem solving
 - 🌱 Currently learning **Data Structures and Algorithms (DSA)**
